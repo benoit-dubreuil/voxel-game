@@ -1,1 +1,1 @@
-# voxel-game
+# Voxel Game
